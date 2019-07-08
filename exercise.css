@@ -1,0 +1,14 @@
+html {
+	margin: 2em;
+}
+
+body {
+	font-family: "Times New Roman";
+	font-size: 13pt;
+	line-height: 18pt;
+}
+
+dt {
+	font-weight: bold;
+}
+
