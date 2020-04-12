@@ -12,3 +12,7 @@ dt {
 	font-weight: bold;
 }
 
+div.three {
+	width: 720px;
+	background-color: #FF8;
+}
